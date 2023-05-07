@@ -1,0 +1,24 @@
+.swal2-styled.swal2-confirm {
+    font-family: "Muli", Sans-serif !important;
+    font-size: 0.9em !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 2px !important;
+    color: #FFFFFF !important;
+    background-color: var( --e-global-color-primary ) !important;
+    border-style: solid !important;
+    border-width: 0px 0px 0px 0px !important;
+    border-color: var( --e-global-color-primary ) !important;
+    border-radius: 0px 0px 0px 0px !important;
+    padding: 12px 30px 12px 30px !important;
+}
+.swal2-title {
+    padding: .4em 1em 0 !important;
+    font-size: 30px !important;
+}
+.swal2-html-container {
+    font-size: 22px !important;
+}
+.elementor-form > .elementor-message {
+    display: none !important;
+}
