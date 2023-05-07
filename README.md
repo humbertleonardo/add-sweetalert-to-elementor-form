@@ -1,6 +1,4 @@
-🇺🇸 **English**
-
-# SweetAlert for Elementor Form
+# SweetAlert for Elementor Form - English 🇺🇸
 
 This plugin replaces the default Elementor Form message display after submission with the SweetAlert2 default. It is important to note that we do not have any direct affiliation with SweetAlert2, we are only facilitating the use of its library with Elementor.
 
@@ -30,9 +28,9 @@ Copyright (c) 2021 - 2022
 Released under the MIT License.
 https://sweetalert2.github.io/
 
-🇧🇷 **Português**
+---
 
-# 🎨 SweetAlert para Formulário do Elementor
+# SweetAlert para Formulário do Elementor - Português 🇧🇷
 
 Este plugin substitui a exibição da mensagem padrão do Elementor Form após o envio pelo padrão do SweetAlert2. É importante lembrar que não temos nenhuma afiliação direta com o SweetAlert2, estamos apenas facilitando o uso de sua biblioteca com o Elementor.
 
