@@ -1,4 +1,4 @@
-🇺🇸 **README.md - English**
+🇺🇸 **English**
 
 # SweetAlert for Elementor Form
 
@@ -28,4 +28,36 @@ Credits for the SweetAlert2 library:
 SweetAlert2 v10.16.0
 Copyright (c) 2021 - 2022
 Released under the MIT License.
+https://sweetalert2.github.io/
+
+🇧🇷 **Português**
+
+# 🎨 SweetAlert para Formulário do Elementor
+
+Este plugin substitui a exibição da mensagem padrão do Elementor Form após o envio pelo padrão do SweetAlert2. É importante lembrar que não temos nenhuma afiliação direta com o SweetAlert2, estamos apenas facilitando o uso de sua biblioteca com o Elementor.
+
+👉 **Uso**
+
+1. Instale e ative o plugin.
+2. Adicione um widget de formulário Elementor à sua página.
+3. Personalize o formulário de acordo com sua preferência.
+4. O plugin substituirá automaticamente a mensagem padrão do formulário pelo SweetAlert2.
+
+👨‍💻 **Personalização**
+
+O plugin inclui um arquivo `custom.css` que pode ser editado de acordo com suas necessidades. Sinta-se livre para modificá-lo para alcançar o resultado desejado.
+
+🙌 **Contribuindo**
+
+Embora este plugin tenha sido originalmente desenvolvido para uso pessoal e possa conter algumas falhas, acolhemos todas as contribuições e melhorias para torná-lo melhor. Incentivamos qualquer pessoa a participar criando uma solicitação de pull, que revisaremos e consideraremos cuidadosamente.
+
+👏 **Créditos**
+
+Autor: Leonardo Humbert
+
+Créditos para a biblioteca SweetAlert2:
+
+SweetAlert2 v10.16.0
+Copyright (c) 2021 - 2022
+Lançado sob a Licença MIT.
 https://sweetalert2.github.io/
