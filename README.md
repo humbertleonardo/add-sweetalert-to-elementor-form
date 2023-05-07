@@ -18,6 +18,7 @@ The plugin includes a `custom.css` file that can be edited according to your nee
 ## Credits
 
 Author: Leonardo Humbert
+
 Credits for the SweetAlert2 library:
 
 SweetAlert2 v10.16.0
