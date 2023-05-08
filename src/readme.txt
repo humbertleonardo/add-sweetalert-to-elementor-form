@@ -1,15 +1,15 @@
-=== Plugin Name ===
-Contributors: Leonardo Humbert
+=== SweetAlert for Elementor Form ===
+Contributors: leonardohumbert
 Donate link: https://www.paypal.com/donate/?business=RE4D6NH5BN222&no_recurring=0&currency_code=BRL
 Tags: elementor, addons, elements, elementor addon, elementor widget, page-builder, WordPress page builder, elementor extensions, elementor page builder, sweetalert widget
 Requires at least: 4.7
-Tested up to: 7.0
+Tested up to: 6.2
 Stable tag: 4.3
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-SweetAlert for Elementor replaces Elementor Form's default message display with SweetAlert2
+Replaces the default Elementor Form message display after submission with the SweetAlert2 default.
 
 == Description ==
 
