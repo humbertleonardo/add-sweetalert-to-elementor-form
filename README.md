@@ -1,10 +1,10 @@
-# SweetAlert for Elementor Form - English 🇺🇸
+# SweetAlert Addon for Elementor - English 🇺🇸
 
 This plugin replaces the default Elementor Form message display after submission with the SweetAlert2 default. It is important to note that we do not have any direct affiliation with SweetAlert2, we are only facilitating the use of its library with Elementor.
 
 👉 **Usage**
 
-1. Install and activate the plugin "sweetalert-form.zip".
+1. Install and activate the plugin "sweetalert-addon-for-elementor.zip".
 2. Add an Elementor Form widget to your page.
 3. Customize the form to your liking.
 4. The plugin will automatically replace the default form message with SweetAlert2.
@@ -36,7 +36,7 @@ Este plugin substitui a exibição da mensagem padrão do Elementor Form após o
 
 👉 **Uso**
 
-1. Instale e ative o plugin "sweetalert-form.zip".
+1. Instale e ative o plugin "sweetalert-addon-for-elementor.zip".
 2. Adicione um widget de formulário Elementor à sua página.
 3. Personalize o formulário de acordo com sua preferência.
 4. O plugin substituirá automaticamente a mensagem padrão do formulário pelo SweetAlert2.
