@@ -1,4 +1,4 @@
-=== SweetAlert Addon for Elementor ===
+=== Add SweetAlert to Elementor Form ===
 Contributors: leonardohumbert
 Donate link: https://www.paypal.com/donate/?business=RE4D6NH5BN222&no_recurring=0&currency_code=BRL
 Tags: elementor, addons, elements, elementor addon, elementor widget, page-builder, WordPress page builder, elementor extensions, elementor page builder, sweetalert widget
@@ -17,7 +17,7 @@ This plugin replaces the default Elementor Form message display after submission
 
 👉 **Usage**
 
-1. Install and activate the plugin "sweetalert-addon-for-elementor.zip".
+1. Install and activate the plugin "Add SweetAlert to Elementor Form".
 2. Add an Elementor Form widget to your page.
 3. Customize the form to your liking.
 4. The plugin will automatically replace the default form message with SweetAlert2.
@@ -30,7 +30,7 @@ The plugin includes a `custom.css` file that can be edited according to your nee
 
 Although this plugin was originally developed for personal use and may contain some flaws, we welcome any contributions or improvements to make it better. We encourage anyone to participate by creating a pull request, which we will review and consider carefully.
 
-[SweetAlert Addon for Elementor - GitHub](https://github.com/humbertleonardo/sweetalert-addon-for-elementor)
+[SweetAlert Addon for Elementor - GitHub](https://github.com/humbertleonardo/add-sweetalert-to-elementor-form)
 
 == Frequently Asked Questions ==
 == Screenshots ==
