@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/donate/?business=RE4D6NH5BN222&no_recurring=
 Tags: elementor, addons, elements, elementor addon, elementor widget, page-builder, WordPress page builder, elementor extensions, elementor page builder, sweetalert widget
 Requires at least: 4.7
 Tested up to: 6.2
-Stable tag: 4.3
+Stable tag: 1.0.1
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
