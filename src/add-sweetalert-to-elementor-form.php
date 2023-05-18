@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: SweetAlert Addon for Elementor
+Plugin Name: Add SweetAlert to Elementor Form
 Description: Replaces the default Elementor Form message display after submission with the SweetAlert2 default.
 Version: 1.0.2
 Author: Leonardo Humbert
